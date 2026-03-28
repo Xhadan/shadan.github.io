@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shadan</h1>
 <h3 align="center">A passionate AI developer/researcher from India</h3>
 
-- 🔭 I’m currently working on [AI & LLMs](https://github.com/Xhadan/llm_engineering)
+- 🔭 I’m currently working on [AI & LLMs](https://github.com/Xhadan/llm_engineering).
 
-- 🌱 I’m currently learning **NLP, RAG, LLM, AI, Fine Tuning Models, DSA, System Design, Cloud Computing**
+- 🌱 I’m currently learning **NLP, RAG, LLM, AI, Fine Tuning Models, DSA, System Design, Cloud Computing**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xhadan](https://github.com/Xhadan)
+- 👨‍💻 All of my projects are available at [https://github.com/Xhadan](https://github.com/Xhadan).
 
-- 💬 Ask me about **Cloud Computing, esp AWS Cloud**
+- 💬 Ask me about **Cloud Computing, esp AWS Cloud**.
 
-- 📫 How to reach me **shadanmailbox@gmail.com**
+- 📫 How to reach me **shadanmailbox@gmail.com**.
 
-- ⚡ Fun fact **I can run 5kms and I make music.**
+- ⚡ Fun fact **I can run 5kms and I make music.**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
