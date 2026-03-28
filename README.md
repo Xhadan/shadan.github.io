@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shadanmailbox@gmail.com**.
 
-- ⚡ Fun fact **I can run 5kms and I make music.**.
+- ⚡ Fun fact **I can run 5kms and I make music**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
